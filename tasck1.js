@@ -56,9 +56,9 @@ function getNextPasswordArray(passwordArray) {
     return null;
 }
 
-console.time()
-console.log(brute());
-console.timeEnd()
+// console.time()
+// console.log(brute());
+// console.timeEnd()
 
 
 
